@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Heather-Mielke
-- 👀 I’m interested in learning front-end web development and exploring the tech world!
-- 🌱 I’m currently learning the basics (html, css, javascript).
+- 👀 I’m developing visually appealing and user friendly websites.
+- 🌱 I’m learning and growing everyday learning new frameworks and languages and practicing my skills
 - 💞️ I’m looking to collaborate on web based and mobile projects.
 - 📫 You can email me at heatherlmielke@gmail.com
 
